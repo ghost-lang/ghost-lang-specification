@@ -1,2 +1,3 @@
-# ghost-lang-specification
-The Ghost Lang Specification
+# Ghost Lang Specification
+
+Especificación oficial del lenguaje Ghost.
